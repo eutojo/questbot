@@ -43,6 +43,11 @@ async def on_message(message):
 
     args = message.content.split(' ')
     command = args[0]
+
+    # bot command detected
+    if command[0] == '/':
+      command = command[1:]
+      
     
 
 @client.event
