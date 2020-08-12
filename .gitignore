@@ -1,4 +1,5 @@
 .env
-.db
+*.db
 .txt
 osrs-quests.py
+player.json
