@@ -1,6 +1,31 @@
 import discord
 import os
+import sqlite3
 from dotenv import load_dotenv
+
+def init:
+  conn = sqlite3.connect('questbot.db')
+  c = conn.cursor()
+
+  ## user table
+  c.execute('''
+  CREATE TABLE IF NOT EXISTS user (
+    id INTEGER AUTOINCREMENT,
+    username text NOT NULL,
+  )''')
+
+  c.execute('''
+  CREATE TABLE IF NOT EXISTS quests (
+    quest_name text NOT NULL,
+    completed INTEGER,
+  )''')
+  
+        
+  #commit the changes to db			
+  conn.commit()
+  #close the connection
+  conn.close()
+
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
@@ -8,6 +33,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 print(TOKEN)
 
 client = discord.Client()
+
 
 @client.event
 async def on_message(message):
