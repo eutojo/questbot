@@ -1,11 +1,196 @@
 {
-    "The Depths of Despair": {
+    "TEARS OF GUTHIX": {
+        "Firemaking": "49", 
+        "Crafting": "20", 
+        "Mining": "20", 
+        "Smithing": "49"
+    }, 
+    "RECRUITMENT DRIVE": {}, 
+    "SCORPION CATCHER": {
+        "Prayer": "31"
+    }, 
+    "ELEMENTAL WORKSHOP II": {
+        "Magic": "20", 
+        "Smithing": "30"
+    }, 
+    "IMP CATCHER": {}, 
+    "LEGENDS QUEST": {
+        "Agility": "50", 
+        "Strength": "50", 
+        "Magic": "56", 
+        "Herblore": "45", 
+        "Smithing": "50", 
+        "Thieving": "50", 
+        "Crafting": "50", 
+        "Woodcutting": "50", 
+        "Prayer": "42", 
+        "Mining": "52"
+    }, 
+    "MERLINS CRYSTAL": {}, 
+    "THE DEPTHS OF DESPAIR": {
         "Agility": "18"
     }, 
-    "Garden of Tranquillity": {
+    "FORGETTABLE TALE...": {
+        "Farming": "17", 
+        "Cooking": "22"
+    }, 
+    "THE KNIGHTS SWORD": {
+        "Mining": "15", 
+        "Cooking": "10", 
+        "Smithing": "15"
+    }, 
+    "MAKING FRIENDS WITH MY ARM": {
+        "Firemaking": "66", 
+        "Mining": "72", 
+        "Construction": "35", 
+        "Agility": "68"
+    }, 
+    "RECIPE FOR DISASTER/FREEING SKRACH UGLOGWEE": {
+        "Firemaking": "20", 
+        "Cooking": "41"
+    }, 
+    "DRAGON SLAYER II": {
+        "Mining": "68", 
+        "Magic": "75", 
+        "Smithing": "70", 
+        "Thieving": "60", 
+        "Crafting": "62", 
+        "Agility": "60", 
+        "Construction": "50", 
+        "Hitpoints": "50"
+    }, 
+    "TRIBAL TOTEM": {
+        "Thieving": "21"
+    }, 
+    "THE FREMENNIK EXILES": {
+        "Slayer": "60", 
+        "Crafting": "65", 
+        "Fishing": "60", 
+        "Smithing": "60"
+    }, 
+    "GOBLIN DIPLOMACY": {}, 
+    "SHADOW OF THE STORM": {
+        "Crafting": "30"
+    }, 
+    "PLAGUE CITY": {}, 
+    "RECIPE FOR DISASTER/FREEING THE MOUNTAIN DWARF": {}, 
+    "ANIMAL MAGNETISM": {
+        "Slayer": "18", 
+        "Crafting": "19", 
+        "Woodcutting": "35", 
+        "Ranged": "30"
+    }, 
+    "FISHING CONTEST": {
+        "Fishing": "10"
+    }, 
+    "MY ARMS BIG ADVENTURE": {
+        "Woodcutting": "10", 
+        "Farming": "29", 
+        "Magic": "61", 
+        "Prayer": "43"
+    }, 
+    "RECIPE FOR DISASTER/FREEING THE GOBLIN GENERALS": {}, 
+    "BETWEEN A ROCK...": {
+        "Mining": "40", 
+        "Defence": "30", 
+        "Smithing": "50"
+    }, 
+    "DEATH TO THE DORGESHUUN": {
+        "Thieving": "23", 
+        "Agility": "23"
+    }, 
+    "THE HAND IN THE SAND": {
+        "Thieving": "17", 
+        "Crafting": "49"
+    }, 
+    "ANOTHER SLICE OF H.A.M.": {
+        "Attack": "15", 
+        "Prayer": "25"
+    }, 
+    "A TASTE OF HOPE": {
+        "Slayer": "38", 
+        "Crafting": "48", 
+        "Agility": "45", 
+        "Attack": "40", 
+        "Herblore": "40"
+    }, 
+    "TALE OF THE RIGHTEOUS": {
+        "Mining": "10", 
+        "Strength": "16"
+    }, 
+    "HOLY GRAIL": {
+        "Attack": "20"
+    }, 
+    "THE GOLEM": {
+        "Thieving": "25", 
+        "Crafting": "20"
+    }, 
+    "MAKING HISTORY": {}, 
+    "RAG AND BONE MAN": {}, 
+    "DWARF CANNON": {}, 
+    "COOKS ASSISTANT": {}, 
+    "MONKEY MADNESS I": {
+        "Prayer": "43+", 
+        "Smithing": "40"
+    }, 
+    "ZOGRE FLESH EATERS": {
+        "Strength": "10+", 
+        "Herblore": "8", 
+        "Smithing": "4", 
+        "Ranged": "30", 
+        "Fletching": "30", 
+        "Prayer": "43"
+    }, 
+    "GARDEN OF TRANQUILLITY": {
         "Farming": "25"
     }, 
-    "The Giant Dwarf": {
+    "THE GRAND TREE": {
+        "Agility": "25"
+    }, 
+    "CABIN FEVER": {
+        "Agility": "42", 
+        "Smithing": "50", 
+        "Crafting": "45", 
+        "Ranged": "40"
+    }, 
+    "WATERFALL QUEST": {}, 
+    "GHOSTS AHOY": {
+        "Agility": "25", 
+        "Cooking": "20"
+    }, 
+    "TREE GNOME VILLAGE": {}, 
+    "TEMPLE OF IKOV": {
+        "Thieving": "42", 
+        "Ranged": "40"
+    }, 
+    "SHADES OF MORTTON": {
+        "Firemaking": "5", 
+        "Crafting": "20", 
+        "Herblore": "15"
+    }, 
+    "RECIPE FOR DISASTER/FREEING KING AWOWOGEI": {
+        "Agility": "48", 
+        "Cooking": "70"
+    }, 
+    "RECIPE FOR DISASTER/FREEING THE LUMBRIDGE GUIDE": {
+        "Cooking": "40"
+    }, 
+    "PRINCE ALI RESCUE": {}, 
+    "THE TOURIST TRAP": {
+        "Fletching": "10", 
+        "Smithing": "20"
+    }, 
+    "DEMON SLAYER": {}, 
+    "RECIPE FOR DISASTER/ANOTHER COOKS QUEST": {
+        "Cooking": "10"
+    }, 
+    "TROLL STRONGHOLD": {
+        "Thieving": "30+", 
+        "Agility": "15"
+    }, 
+    "BONE VOYAGE": {}, 
+    "THE CORSAIR CURSE": {}, 
+    "THE GIANT DWARF": {
         "Crafting": "12", 
         "Magic": "33", 
         "Smithing": "20+", 
@@ -13,8 +198,21 @@
         "Mining": "20+", 
         "Firemaking": "16"
     }, 
-    "Sheep Herder": {}, 
-    "Song of the Elves": {
+    "RUNE MYSTERIES": {}, 
+    "EAGLES PEAK": {
+        "Agility": "25", 
+        "Hunter": "27"
+    }, 
+    "MOUNTAIN DAUGHTER": {
+        "Agility": "20"
+    }, 
+    "THE LOST TRIBE": {
+        "Thieving": "13", 
+        "Agility": "13", 
+        "Mining": "17"
+    }, 
+    "FAIRYTALE I - GROWING PAINS": {}, 
+    "SONG OF THE ELVES": {
         "Agility": "70", 
         "Magic": "75", 
         "Herblore": "70", 
@@ -26,515 +224,163 @@
         "Prayer": "40", 
         "Farming": "70"
     }, 
-    "Priest in Peril": {}, 
-    "The Dig Site": {
-        "Thieving": "25", 
-        "Agility": "10", 
-        "Herblore": "10"
+    "THE FEUD": {
+        "Thieving": "30"
     }, 
-    "Hazeel Cult": {}, 
-    "Nature Spirit": {
-        "Crafting": "18"
+    "HEROES QUEST": {
+        "Mining": "50", 
+        "Cooking": "53", 
+        "Fishing": "53", 
+        "Herblore": "25"
     }, 
-    "Shades of Mortton": {
-        "Firemaking": "5", 
-        "Crafting": "20", 
-        "Herblore": "15"
+    "ROYAL TROUBLE": {
+        "Slayer": "40", 
+        "Agility": "40"
     }, 
-    "Rune Mysteries": {}, 
-    "Elemental Workshop I": {
-        "Mining": "30", 
-        "Crafting": "20", 
-        "Smithing": "20"
+    "SPIRITS OF THE ELID": {
+        "Thieving": "37", 
+        "Mining": "37", 
+        "Magic": "33", 
+        "Ranged": "37"
     }, 
-    "Druidic Ritual": {}, 
-    "Mournings End Part II": {
-        "Agility": "70+", 
-        "Prayer": "43+"
+    "WANTED!": {}, 
+    "THE ASCENT OF ARCEUUS": {
+        "Hunter": "12"
     }, 
-    "Animal Magnetism": {
-        "Slayer": "18", 
-        "Crafting": "19", 
-        "Woodcutting": "35", 
-        "Ranged": "30"
+    "HAUNTED MINE": {
+        "Crafting": "35", 
+        "Prayer": "40"
     }, 
-    "A Souls Bane": {}, 
-    "Throne of Miscellania": {
+    "KINGS RANSOM": {
+        "Defence": "65", 
+        "Magic": "45"
+    }, 
+    "X MARKS THE SPOT": {}, 
+    "TROLL ROMANCE": {
+        "Agility": "28", 
+        "Woodcutting": "45"
+    }, 
+    "DRAGON SLAYER": {
+        "Crafting": "8", 
+        "Prayer": "37", 
+        "Magic": "33", 
+        "Smithing": "34"
+    }, 
+    "THE QUEEN OF THIEVES": {
+        "Thieving": "20"
+    }, 
+    "THE FREMENNIK ISLES": {
+        "Agility": "40", 
+        "Construction": "20", 
+        "Woodcutting": "56", 
+        "Crafting": "46", 
+        "Prayer": "40"
+    }, 
+    "RAG AND BONE MAN II": {
+        "Slayer": "40", 
+        "Defence": "20"
+    }, 
+    "ROVING ELVES": {
+        "Agility": "56", 
+        "Ranged": "60"
+    }, 
+    "FIGHT ARENA": {}, 
+    "HORROR FROM THE DEEP": {
+        "Agility": "35", 
+        "Prayer": "40"
+    }, 
+    "FAIRYTALE II - CURE A QUEEN": {
+        "Thieving": "40", 
+        "Farming": "49", 
+        "Herblore": "57"
+    }, 
+    "THE RESTLESS GHOST": {}, 
+    "REGICIDE": {
+        "Crafting": "10", 
+        "Agility": "56"
+    }, 
+    "HAZEEL CULT": {}, 
+    "THRONE OF MISCELLANIA": {
         "Woodcutting": "45", 
         "Farming": "10", 
         "Mining": "30", 
         "Fishing": "35"
     }, 
-    "Swan Song": {
-        "Crafting": "40", 
-        "Magic": "66", 
-        "Smithing": "45", 
-        "Cooking": "62", 
-        "Fishing": "62", 
-        "Firemaking": "42"
+    "THE FORSAKEN TOWER": {}, 
+    "DEVIOUS MINDS": {
+        "Fletching": "50", 
+        "Smithing": "65"
     }, 
-    "Shadow of the Storm": {
+    "THE SLUG MENACE": {
+        "Slayer": "30", 
+        "Thieving": "30", 
         "Crafting": "30"
     }, 
-    "Underground Pass": {
-        "Thieving": "50", 
-        "Agility": "40+", 
-        "Prayer": "43", 
-        "Ranged": "25"
+    "MISTHALIN MYSTERY": {}, 
+    "EADGARS RUSE": {
+        "Agility": "44", 
+        "Herblore": "31"
     }, 
-    "Biohazard": {}, 
-    "Fairytale I - Growing Pains": {}, 
-    "Desert Treasure": {
-        "Thieving": "53", 
-        "Firemaking": "50", 
-        "Woodcutting": "75", 
-        "Magic": "50", 
-        "Slayer": "10"
+    "CREATURE OF FENKENSTRAIN": {
+        "Thieving": "25", 
+        "Crafting": "20", 
+        "Smithing": "4"
     }, 
-    "What Lies Below": {
-        "Mining": "42"
+    "SHIELD OF ARRAV": {}, 
+    "GERTRUDES CAT": {}, 
+    "MONKS FRIEND": {}, 
+    "THE DIG SITE": {
+        "Thieving": "25", 
+        "Agility": "10", 
+        "Herblore": "10"
     }, 
-    "Tribal Totem": {
-        "Thieving": "21"
-    }, 
-    "Murder Mystery": {}, 
-    "Shield of Arrav": {}, 
-    "Recipe for Disaster": {
+    "WITCHS HOUSE": {}, 
+    "RECIPE FOR DISASTER": {
         "Agility": "48", 
+        "Cooking": "70", 
         "Magic": "59", 
         "Herblore": "25", 
-        "Ranged": "40", 
         "Smithing": "40", 
         "Thieving": "53", 
-        "Cooking": "70", 
+        "Ranged": "40", 
         "Crafting": "40", 
-        "Mining": "50", 
         "Slayer": "10", 
         "Fletching": "10", 
         "Woodcutting": "36", 
         "Fishing": "53", 
-        "Firemaking": "50"
+        "Firemaking": "50", 
+        "Mining": "50"
     }, 
-    "Eagles Peak": {
-        "Agility": "25", 
-        "Hunter": "27"
+    "CLIENT OF KOUREND": {}, 
+    "DORICS QUEST": {
+        "Mining": "15"
     }, 
-    "Big Chompy Bird Hunting": {
-        "Fletching": "5", 
-        "Cooking": "30", 
-        "Ranged": "30"
+    "THE FREMENNIK TRIALS": {
+        "Fletching": "25", 
+        "Woodcutting": "40", 
+        "Crafting": "40", 
+        "Agility": "48"
     }, 
-    "Roving Elves": {
-        "Agility": "56", 
-        "Ranged": "60"
-    }, 
-    "Rum Deal": {
+    "BIOHAZARD": {}, 
+    "RUM DEAL": {
         "Slayer": "42", 
         "Crafting": "42", 
         "Farming": "40", 
         "Fishing": "50", 
         "Prayer": "47"
     }, 
-    "The Knights Sword": {
-        "Mining": "15", 
-        "Cooking": "10", 
-        "Smithing": "15"
-    }, 
-    "Creature of Fenkenstrain": {
-        "Thieving": "25", 
-        "Crafting": "20", 
-        "Smithing": "4"
-    }, 
-    "Monks Friend": {}, 
-    "Recipe for Disaster/Freeing Pirate Pete": {
-        "Crafting": "42", 
-        "Cooking": "31", 
-        "Smithing": "4"
-    }, 
-    "Regicide": {
-        "Crafting": "10", 
-        "Agility": "56"
-    }, 
-    "Grim Tales": {
-        "Thieving": "58", 
-        "Agility": "59", 
-        "Farming": "45", 
-        "Woodcutting": "71", 
-        "Herblore": "52"
-    }, 
-    "Rag and Bone Man": {}, 
-    "Enlightened Journey": {
-        "Firemaking": "20", 
-        "Crafting": "36", 
-        "Farming": "30"
-    }, 
-    "The Fremennik Isles": {
-        "Agility": "40", 
-        "Construction": "20", 
-        "Crafting": "46", 
-        "Woodcutting": "56", 
-        "Prayer": "40"
-    }, 
-    "Olafs Quest": {
-        "Firemaking": "40", 
-        "Woodcutting": "50"
-    }, 
-    "A Tail of Two Cats": {}, 
-    "Jungle Potion": {
-        "Herblore": "3"
-    }, 
-    "The Feud": {
-        "Thieving": "30"
-    }, 
-    "Fight Arena": {}, 
-    "Family Crest": {
-        "Mining": "40", 
-        "Magic": "59", 
-        "Crafting": "40", 
-        "Smithing": "40"
-    }, 
-    "Enakhras Lament": {
-        "Firemaking": "45", 
-        "Crafting": "50", 
-        "Magic": "39", 
-        "Mining": "45", 
-        "Prayer": "43"
-    }, 
-    "Waterfall Quest": {}, 
-    "Client of Kourend": {}, 
-    "The Fremennik Trials": {
-        "Fletching": "25", 
-        "Woodcutting": "40", 
-        "Agility": "48", 
-        "Crafting": "40"
-    }, 
-    "Temple of Ikov": {
-        "Thieving": "42", 
-        "Ranged": "40"
-    }, 
-    "Forgettable Tale...": {
-        "Farming": "17", 
-        "Cooking": "22"
-    }, 
-    "Dorics Quest": {
-        "Mining": "15"
-    }, 
-    "Recipe for Disaster/Freeing the Mountain Dwarf": {}, 
-    "Shilo Village": {
-        "Crafting": "20", 
-        "Agility": "32", 
-        "Smithing": "4"
-    }, 
-    "Recipe for Disaster/Defeating the Culinaromancer": {}, 
-    "X Marks the Spot": {}, 
-    "Romeo & Juliet": {}, 
-    "One Small Favour": {
-        "Agility": "36", 
-        "Smithing": "30", 
-        "Crafting": "25", 
-        "Herblore": "18"
-    }, 
-    "Recipe for Disaster/Freeing Skrach Uglogwee": {
-        "Firemaking": "20", 
-        "Cooking": "41"
-    }, 
-    "Plague City": {}, 
-    "Wanted!": {}, 
-    "Holy Grail": {
-        "Attack": "20"
-    }, 
-    "Gertrudes Cat": {}, 
-    "Watchtower": {
-        "Thieving": "15", 
-        "Agility": "25", 
-        "Magic": "15", 
-        "Herblore": "14", 
-        "Mining": "40"
-    }, 
-    "Black Knights Fortress": {}, 
-    "Between a Rock...": {
-        "Mining": "40", 
-        "Defence": "30", 
-        "Smithing": "50"
-    }, 
-    "The Slug Menace": {
-        "Slayer": "30", 
-        "Thieving": "30", 
-        "Crafting": "30"
-    }, 
-    "Royal Trouble": {
-        "Slayer": "40", 
-        "Agility": "40"
-    }, 
-    "Recipe for Disaster/Freeing the Lumbridge Guide": {
-        "Cooking": "40"
-    }, 
-    "Legends Quest": {
-        "Agility": "50", 
-        "Strength": "50", 
-        "Magic": "56", 
-        "Herblore": "45", 
-        "Smithing": "50", 
-        "Thieving": "50", 
-        "Crafting": "50", 
-        "Mining": "52", 
-        "Woodcutting": "50", 
-        "Prayer": "42"
-    }, 
-    "Clock Tower": {}, 
-    "Prince Ali Rescue": {}, 
-    "Tower of Life": {
+    "DRUIDIC RITUAL": {}, 
+    "TOWER OF LIFE": {
         "Construction": "10"
     }, 
-    "The Fremennik Exiles": {
-        "Slayer": "60", 
-        "Crafting": "65", 
-        "Fishing": "60", 
-        "Smithing": "60"
+    "SEA SLUG": {
+        "Firemaking": "30"
     }, 
-    "Icthlarins Little Helper": {
-        "Agility": "35"
+    "OBSERVATORY QUEST": {}, 
+    "NATURE SPIRIT": {
+        "Crafting": "18"
     }, 
-    "The Tourist Trap": {
-        "Fletching": "10", 
-        "Smithing": "20"
-    }, 
-    "Recruitment Drive": {}, 
-    "Recipe for Disaster/Freeing the Goblin generals": {}, 
-    "Rag and Bone Man II": {
-        "Slayer": "40", 
-        "Defence": "20"
-    }, 
-    "The Corsair Curse": {}, 
-    "The Grand Tree": {
-        "Agility": "25"
-    }, 
-    "Merlins Crystal": {}, 
-    "Tears of Guthix": {
-        "Firemaking": "49", 
-        "Crafting": "20", 
-        "Mining": "20", 
-        "Smithing": "49"
-    }, 
-    "Ghosts Ahoy": {
-        "Agility": "25", 
-        "Cooking": "20"
-    }, 
-    "Demon Slayer": {}, 
-    "Devious Minds": {
-        "Fletching": "50", 
-        "Smithing": "65"
-    }, 
-    "Troll Stronghold": {
-        "Thieving": "30+", 
-        "Agility": "15"
-    }, 
-    "Making Friends with My Arm": {
-        "Firemaking": "66", 
-        "Mining": "72", 
-        "Construction": "35", 
-        "Agility": "68"
-    }, 
-    "Scorpion Catcher": {
-        "Prayer": "31"
-    }, 
-    "Elemental Workshop II": {
-        "Magic": "20", 
-        "Smithing": "30"
-    }, 
-    "Spirits of the Elid": {
-        "Thieving": "37", 
-        "Mining": "37", 
-        "Magic": "33", 
-        "Ranged": "37"
-    }, 
-    "The Golem": {
-        "Thieving": "25", 
-        "Crafting": "20"
-    }, 
-    "In Search of the Myreque": {
-        "Agility": "25", 
-        "Prayer": "43"
-    }, 
-    "Witchs Potion": {}, 
-    "Dragon Slayer": {
-        "Crafting": "8", 
-        "Smithing": "34", 
-        "Magic": "33", 
-        "Prayer": "37"
-    }, 
-    "Bone Voyage": {}, 
-    "The Forsaken Tower": {}, 
-    "Observatory Quest": {}, 
-    "The Restless Ghost": {}, 
-    "Goblin Diplomacy": {}, 
-    "Heroes Quest": {
-        "Mining": "50", 
-        "Cooking": "53", 
-        "Fishing": "53", 
-        "Herblore": "25"
-    }, 
-    "Contact!": {}, 
-    "Mountain Daughter": {
-        "Agility": "20"
-    }, 
-    "Sins of the Father": {
-        "Agility": "52", 
-        "Magic": "49", 
-        "Crafting": "56", 
-        "Slayer": "50", 
-        "Fletching": "60", 
-        "Woodcutting": "62", 
-        "Attack": "50"
-    }, 
-    "Mournings End Part I": {
-        "Thieving": "50", 
-        "Ranged": "60"
-    }, 
-    "Death to the Dorgeshuun": {
-        "Thieving": "23", 
-        "Agility": "23"
-    }, 
-    "Darkness of Hallowvale": {
-        "Mining": "20", 
-        "Strength": "40", 
-        "Magic": "33", 
-        "Thieving": "22", 
-        "Agility": "26", 
-        "Crafting": "32", 
-        "Construction": "5"
-    }, 
-    "Cooks Assistant": {}, 
-    "Recipe for Disaster/Freeing Sir Amik Varze": {
-        "Farming": "20"
-    }, 
-    "The Great Brain Robbery": {
-        "Crafting": "16", 
-        "Construction": "30", 
-        "Prayer": "50"
-    }, 
-    "Monkey Madness II": {
-        "Crafting": "70", 
-        "Thieving": "55", 
-        "Hunter": "60", 
-        "Agility": "55", 
-        "Slayer": "69", 
-        "Firemaking": "60"
-    }, 
-    "Sheep Shearer": {}, 
-    "Ernest the Chicken": {}, 
-    "Troll Romance": {
-        "Agility": "28", 
-        "Woodcutting": "45"
-    }, 
-    "Cold War": {
-        "Thieving": "15", 
-        "Agility": "30", 
-        "Construction": "34", 
-        "Hunter": "10", 
-        "Crafting": "30"
-    }, 
-    "Death Plateau": {}, 
-    "Making History": {}, 
-    "Haunted Mine": {
-        "Crafting": "35", 
-        "Prayer": "40"
-    }, 
-    "The Eyes of Glouphrie": {
-        "Construction": "5", 
-        "Magic": "46"
-    }, 
-    "Witchs House": {}, 
-    "Fairytale II - Cure a Queen": {
-        "Thieving": "40", 
-        "Farming": "49", 
-        "Herblore": "57"
-    }, 
-    "Imp Catcher": {}, 
-    "Recipe for Disaster/Freeing Evil Dave": {
-        "Cooking": "25"
-    }, 
-    "Fishing Contest": {
-        "Fishing": "10"
-    }, 
-    "Eadgars Ruse": {
-        "Agility": "44", 
-        "Herblore": "31"
-    }, 
-    "My Arms Big Adventure": {
-        "Woodcutting": "10", 
-        "Farming": "29", 
-        "Magic": "61", 
-        "Prayer": "43"
-    }, 
-    "Recipe for Disaster/Another Cooks Quest": {
-        "Cooking": "10"
-    }, 
-    "Monkey Madness I": {
-        "Smithing": "40", 
-        "Prayer": "43+"
-    }, 
-    "A Taste of Hope": {
-        "Slayer": "38", 
-        "Crafting": "48", 
-        "Agility": "45", 
-        "Attack": "40", 
-        "Herblore": "40"
-    }, 
-    "Another Slice of H.A.M.": {
-        "Attack": "15", 
-        "Prayer": "25"
-    }, 
-    "Tale of the Righteous": {
-        "Mining": "10", 
-        "Strength": "16"
-    }, 
-    "The Lost Tribe": {
-        "Thieving": "13", 
-        "Agility": "13", 
-        "Mining": "17"
-    }, 
-    "Recipe for Disaster/Freeing King Awowogei": {
-        "Agility": "48", 
-        "Cooking": "70"
-    }, 
-    "Kings Ransom": {
-        "Defence": "65", 
-        "Magic": "45"
-    }, 
-    "Tree Gnome Village": {}, 
-    "Lost City": {
-        "Crafting": "31", 
-        "Woodcutting": "36"
-    }, 
-    "Vampyre Slayer": {}, 
-    "Tai Bwo Wannai Trio": {
-        "Agility": "15", 
-        "Cooking": "30", 
-        "Fishing": "65", 
-        "Herblore": "34"
-    }, 
-    "The Queen of Thieves": {
-        "Thieving": "20"
-    }, 
-    "Pirates Treasure": {}, 
-    "Ratcatchers": {}, 
-    "The Hand in the Sand": {
-        "Thieving": "17", 
-        "Crafting": "49"
-    }, 
-    "The Ascent of Arceuus": {
-        "Hunter": "12"
-    }, 
-    "Dream Mentor": {}, 
-    "Cabin Fever": {
-        "Agility": "42", 
-        "Ranged": "40", 
-        "Crafting": "45", 
-        "Smithing": "50"
-    }, 
-    "Dwarf Cannon": {}, 
-    "Lunar Diplomacy": {
+    "LUNAR DIPLOMACY": {
         "Crafting": "61", 
         "Defence": "40", 
         "Magic": "65", 
@@ -543,36 +389,190 @@
         "Woodcutting": "55", 
         "Firemaking": "49"
     }, 
-    "Misthalin Mystery": {}, 
-    "In Aid of the Myreque": {
-        "Crafting": "25", 
-        "Agility": "50", 
-        "Magic": "7", 
-        "Mining": "15"
+    "WITCHS POTION": {}, 
+    "A TAIL OF TWO CATS": {}, 
+    "SHEEP HERDER": {}, 
+    "FAMILY CREST": {
+        "Mining": "40", 
+        "Magic": "59", 
+        "Crafting": "40", 
+        "Smithing": "40"
     }, 
-    "Dragon Slayer II": {
-        "Mining": "68", 
-        "Magic": "75", 
-        "Smithing": "70", 
-        "Thieving": "60", 
-        "Crafting": "62", 
-        "Agility": "60", 
-        "Construction": "50", 
-        "Hitpoints": "50"
+    "RECIPE FOR DISASTER/FREEING EVIL DAVE": {
+        "Cooking": "25"
     }, 
-    "Zogre Flesh Eaters": {
-        "Strength": "10+", 
-        "Herblore": "8", 
-        "Ranged": "30", 
-        "Smithing": "4", 
-        "Fletching": "30", 
+    "SINS OF THE FATHER": {
+        "Agility": "52", 
+        "Magic": "49", 
+        "Crafting": "56", 
+        "Slayer": "50", 
+        "Fletching": "60", 
+        "Woodcutting": "62", 
+        "Attack": "50"
+    }, 
+    "TAI BWO WANNAI TRIO": {
+        "Agility": "15", 
+        "Cooking": "30", 
+        "Fishing": "65", 
+        "Herblore": "34"
+    }, 
+    "ENLIGHTENED JOURNEY": {
+        "Firemaking": "20", 
+        "Crafting": "36", 
+        "Farming": "30"
+    }, 
+    "A SOULS BANE": {}, 
+    "DESERT TREASURE": {
+        "Thieving": "53", 
+        "Firemaking": "50", 
+        "Woodcutting": "75", 
+        "Magic": "50", 
+        "Slayer": "10"
+    }, 
+    "THE EYES OF GLOUPHRIE": {
+        "Construction": "5", 
+        "Magic": "46"
+    }, 
+    "WHAT LIES BELOW": {
+        "Mining": "42"
+    }, 
+    "JUNGLE POTION": {
+        "Herblore": "3"
+    }, 
+    "THE GREAT BRAIN ROBBERY": {
+        "Crafting": "16", 
+        "Construction": "30", 
+        "Prayer": "50"
+    }, 
+    "CONTACT!": {}, 
+    "MOURNINGS END PART II": {
+        "Agility": "70+", 
+        "Prayer": "43+"
+    }, 
+    "MONKEY MADNESS II": {
+        "Crafting": "70", 
+        "Thieving": "55", 
+        "Hunter": "60", 
+        "Agility": "55", 
+        "Slayer": "69", 
+        "Firemaking": "60"
+    }, 
+    "ROMEO & JULIET": {}, 
+    "ICTHLARINS LITTLE HELPER": {
+        "Agility": "35"
+    }, 
+    "BIG CHOMPY BIRD HUNTING": {
+        "Fletching": "5", 
+        "Cooking": "30", 
+        "Ranged": "30"
+    }, 
+    "DARKNESS OF HALLOWVALE": {
+        "Mining": "20", 
+        "Strength": "40", 
+        "Magic": "33", 
+        "Thieving": "22", 
+        "Crafting": "32", 
+        "Agility": "26", 
+        "Construction": "5"
+    }, 
+    "GRIM TALES": {
+        "Thieving": "58", 
+        "Agility": "59", 
+        "Farming": "45", 
+        "Woodcutting": "71", 
+        "Herblore": "52"
+    }, 
+    "PIRATES TREASURE": {}, 
+    "WATCHTOWER": {
+        "Thieving": "15", 
+        "Agility": "25", 
+        "Magic": "15", 
+        "Herblore": "14", 
+        "Mining": "40"
+    }, 
+    "PRIEST IN PERIL": {}, 
+    "DREAM MENTOR": {}, 
+    "BLACK KNIGHTS FORTRESS": {}, 
+    "ERNEST THE CHICKEN": {}, 
+    "SWAN SONG": {
+        "Crafting": "40", 
+        "Magic": "66", 
+        "Smithing": "45", 
+        "Cooking": "62", 
+        "Fishing": "62", 
+        "Firemaking": "42"
+    }, 
+    "DEATH PLATEAU": {}, 
+    "SHILO VILLAGE": {
+        "Crafting": "20", 
+        "Agility": "32", 
+        "Smithing": "4"
+    }, 
+    "ENAKHRAS LAMENT": {
+        "Firemaking": "45", 
+        "Crafting": "50", 
+        "Magic": "39", 
+        "Mining": "45", 
         "Prayer": "43"
     }, 
-    "Horror from the Deep": {
-        "Agility": "35", 
-        "Prayer": "40"
+    "MOURNINGS END PART I": {
+        "Thieving": "50", 
+        "Ranged": "60"
     }, 
-    "Sea Slug": {
-        "Firemaking": "30"
+    "ELEMENTAL WORKSHOP I": {
+        "Mining": "30", 
+        "Crafting": "20", 
+        "Smithing": "20"
+    }, 
+    "RATCATCHERS": {}, 
+    "COLD WAR": {
+        "Thieving": "15", 
+        "Agility": "30", 
+        "Construction": "34", 
+        "Hunter": "10", 
+        "Crafting": "30"
+    }, 
+    "IN SEARCH OF THE MYREQUE": {
+        "Agility": "25", 
+        "Prayer": "43"
+    }, 
+    "RECIPE FOR DISASTER/FREEING PIRATE PETE": {
+        "Crafting": "42", 
+        "Cooking": "31", 
+        "Smithing": "4"
+    }, 
+    "RECIPE FOR DISASTER/DEFEATING THE CULINAROMANCER": {}, 
+    "VAMPYRE SLAYER": {}, 
+    "ONE SMALL FAVOUR": {
+        "Herblore": "18", 
+        "Agility": "36", 
+        "Crafting": "25", 
+        "Smithing": "30"
+    }, 
+    "UNDERGROUND PASS": {
+        "Thieving": "50", 
+        "Agility": "40+", 
+        "Ranged": "25", 
+        "Prayer": "43"
+    }, 
+    "IN AID OF THE MYREQUE": {
+        "Crafting": "25", 
+        "Magic": "7", 
+        "Agility": "50", 
+        "Mining": "15"
+    }, 
+    "OLAFS QUEST": {
+        "Firemaking": "40", 
+        "Woodcutting": "50"
+    }, 
+    "RECIPE FOR DISASTER/FREEING SIR AMIK VARZE": {
+        "Farming": "20"
+    }, 
+    "MURDER MYSTERY": {}, 
+    "SHEEP SHEARER": {}, 
+    "CLOCK TOWER": {}, 
+    "LOST CITY": {
+        "Crafting": "31", 
+        "Woodcutting": "36"
     }
 }
